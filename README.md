@@ -1,4 +1,7 @@
 # testRep
 Hello Cloud Gurus, this is the new line added to this file.
 
-Now this is the third change to this readme about to be pushed. Go Cloud Gurus!o
+Now this is the third change to this readme about to be pushed. Go Cloud Gurus!
+
+
+Edit \3 this is another  edit that was made and pushed
